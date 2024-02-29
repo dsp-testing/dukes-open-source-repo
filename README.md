@@ -1,5 +1,5 @@
 # dukes-open-source-repo
-dukes public repo with the best stuff
+dukes public repo with the best stuff for testing secret scanning
 
 testing one click remediation, this github pat should be automatically revoked because this is a public repo
 
