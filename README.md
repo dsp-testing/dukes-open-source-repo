@@ -39,3 +39,5 @@ secret_scanning_ab85fc6f8d7638cf1c11da812da308d43_50004
 secret_scanning_ab85fc6f8d7638cf1c11da812da308d43_50005
 
 no alerts created now
+
+secret in commit message
